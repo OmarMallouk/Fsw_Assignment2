@@ -1,0 +1,23 @@
+.section2{
+    height: 70vh;
+    width: 100%;
+    background-image: url(../images/Shared-Space-at-BDD.png);
+    
+}
+
+.sect2>h1{
+    text-align: center;
+    color: white;
+    font-weight:600;
+    padding-top: 40px;
+
+}
+
+.section2>iframe{
+    width: 80vh;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: 60px;
+    justify-content: center;
+    
+}
