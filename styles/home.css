@@ -81,10 +81,11 @@
     margin-top: 60px;
     justify-content: space-between;
     font-weight: bold;
+    color: rgb(252, 252, 252);
 }
 
 ul li:hover {
-    background-color: lightblue;
+    background-color: rgb(220, 225, 226);
   }
   
   .primary .logo{
